@@ -1,0 +1,107 @@
+body{
+  font-family: serif;
+}
+
+img{
+  max-width: 100%;
+}
+
+#containeer{
+  /*outline: 1px solid purple;*/
+  width: 496px;
+  height: 454px;
+  overflow: auto;
+  margin-left: 250px;
+}
+
+#header{
+  /*outline: 1px solid yellow;*/
+  width: 496px;
+  text-align: center;
+  padding: 5px;
+  position: relative;
+  margin: 0;
+  box-sizing: border-box;
+  background: rgb(255,193,7);
+  border: 1px solid black;
+}
+
+
+#section_one{
+/*  outline: 1px solid red;*/
+  width: 135px;
+  height: 389px;
+  float: left;
+  box-sizing: border-box;
+  display: inline-block;
+  border-left: 1px solid black;
+
+}
+
+#section_two{
+  /*outline: 1px solid blue;*/
+  width: 225px;
+  height: 389px;
+  float: left;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: inline-block;
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+}
+
+#section_three{
+  /*outline: 1px solid green;*/
+  width: 135px;
+  height: 389px;
+  float: left;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: inline-block;
+  border-right: 1px solid black;
+}
+
+
+#footer p{
+  width: 496px;
+  /*outline: 1px solid black;*/
+  margin: 0;
+  padding: 5px;
+  float: left;
+  box-sizing: border-box;
+  text-align: center;
+  border: 1px solid black;
+  background: rgb(255,193,7);
+}
+
+#section_one h4, #section_three h4{
+  text-align: center;
+}
+
+#section_two h3{
+  text-align: center;
+  margin: 30px;
+}
+
+#section_one p, #section_three p{
+  margin: 0;
+  text-align: justify;
+  padding: 8px;
+  font-size: 15px;
+}
+
+#section_two p{
+  margin:0;
+  font-size: 15px;
+  text-align: justify;
+  padding-bottom: 20px;
+  padding-right: 25px;
+  padding-left: 25px;
+
+}
+
+#section_one p{
+  padding-bottom: 25px;
+}
