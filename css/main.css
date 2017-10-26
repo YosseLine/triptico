@@ -11,12 +11,13 @@ img{
   width: 496px;
   height: 454px;
   overflow: auto;
-  margin-left: 250px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 #header{
   /*outline: 1px solid yellow;*/
-  width: 496px;
+  width: 495px;
   text-align: center;
   padding: 5px;
   position: relative;
@@ -65,7 +66,7 @@ img{
 
 
 #footer p{
-  width: 496px;
+  width: 495px;
   /*outline: 1px solid black;*/
   margin: 0;
   padding: 5px;
