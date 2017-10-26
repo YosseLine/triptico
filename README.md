@@ -1,16 +1,27 @@
 # Tríptico
 
 * **Curso:** Clase Práctica
+
 * **Squad:** Ayllu Coders
+
 * **Integrantes:**
+
 - Yosseline Apcho  
+
 - Vanessa Mendoza  
+
 - Lidia Ramirez  
-- Cindy Llerena  
-- Aurora Vasquez  
-- Alexandra Calderón  
+
+- Cindy Llerena
+
+- Aurora Vasquez
+
+- Alexandra Calderón
+
 - Katherine Chuquillanqui  
+
 - Stephanie Wong  
+
 - Claudia Gariboto  
 
 ***
